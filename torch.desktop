@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Torch QML
+Exec=qmlscene $@ qml/Main.qml
+Icon=torch.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
