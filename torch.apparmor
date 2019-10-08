@@ -1,8 +1,7 @@
 {
-	"policy_groups": [
-		"content_exchange",
-		"video",
-		"camera"
-	],
-	"policy_version": 16.04
+    "policy_groups": [
+        "video",
+        "camera"
+    ],
+    "policy_version": 16.04
 }
