@@ -1,2 +1,4 @@
-clickable # Install and run on phone
+git clone https://github.com/costales/UbuntuTouch
+cd UbuntuTouch/
 clickable desktop # Run on desktop
+clickable # Install on phone
